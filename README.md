@@ -1,10 +1,13 @@
 # basic_calculator
 DEF function add(a, b)
     RETURN a + b
+
 DEF function subtract(a, b)
     RETURN a - b
+
 DEF function multiply(a, b)
     RETURN a * b
+
 DEF function divide(a, b)
     RETURN a / b  // Ensure that b is not zero when calling
 
